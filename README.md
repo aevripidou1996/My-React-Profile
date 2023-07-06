@@ -1,9 +1,5 @@
 # My-React-Profile
 
-## Table of Contents
-
-- [React Portfolio](#react-portfolio)
-- [Table of Contents-](#table-of-contents-)
 - [Description](#description)
 - [Installation](#installation)
 - [Screenshots](#screenshots)
