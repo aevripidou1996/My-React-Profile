@@ -1,7 +1,5 @@
 # My-React-Profile
 
-# 20-React-Portfolio
-
 ## Table of Contents
 
 - [React Portfolio](#react-portfolio)
