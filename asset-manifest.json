@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/My-React-Profile/static/css/main.0dbbb574.css",
+    "main.js": "/My-React-Profile/static/js/main.6082d9d4.js",
+    "static/media/rrg.png": "/My-React-Profile/static/media/rrg.040ad327614ec3a583f2.png",
+    "static/media/Developer-Photo.jpg": "/My-React-Profile/static/media/Developer-Photo.1c3da39354bf7b0f7afc.jpg",
+    "static/media/weatherApp.png": "/My-React-Profile/static/media/weatherApp.25d8f1a02e6a55b472fd.png",
+    "static/media/heroImage.jpg": "/My-React-Profile/static/media/heroImage.6d913285c54cd239377e.jpg",
+    "static/media/laptop-resume.jpg": "/My-React-Profile/static/media/laptop-resume.68ccb935e2cf6527f21d.jpg",
+    "static/media/text-editor-pwa-sm.png": "/My-React-Profile/static/media/text-editor-pwa-sm.62104875ada358c05ad4.png",
+    "static/media/passwordGenerator.png": "/My-React-Profile/static/media/passwordGenerator.ca37075ab1404b32284b.png",
+    "static/media/quizzApp.png": "/My-React-Profile/static/media/quizzApp.c8dd3a6a0358e5eb9682.png",
+    "static/media/notetakerAPP.png": "/My-React-Profile/static/media/notetakerAPP.c4dbdb8550bd78a94a69.png",
+    "index.html": "/My-React-Profile/index.html",
+    "main.0dbbb574.css.map": "/My-React-Profile/static/css/main.0dbbb574.css.map",
+    "main.6082d9d4.js.map": "/My-React-Profile/static/js/main.6082d9d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dbbb574.css",
+    "static/js/main.6082d9d4.js"
+  ]
+}
