@@ -15,7 +15,7 @@ This is a personal portfolio page using React and the various features that Reac
 
 ## Installation
 
-No installation is necessary, the app is deployed at Github Pages:
+No installation is necessary, the app is deployed at Github Pages: https://aevripidou1996.github.io/My-React-Profile/
 
 ## Screenshots
 
@@ -34,7 +34,7 @@ The second URL once deployed will showcase the finished live application.
 
 Github URL: https: https://github.com/aevripidou1996/My-React-Profile/tree/main
 
-Github Pages URL: 
+Github Pages URL: https://aevripidou1996.github.io/My-React-Profile/
 
 
 
