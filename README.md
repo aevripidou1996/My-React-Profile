@@ -21,6 +21,12 @@ No installation is necessary, the app is deployed at Github Pages:
 
 ## Screenshots
 
+![image](https://github.com/aevripidou1996/My-React-Profile/assets/114223852/fb8e9231-6ec3-4b57-a3e4-ffb5e403f14a)
+
+![image](https://github.com/aevripidou1996/My-React-Profile/assets/114223852/c5842a6c-8e64-446b-a8b4-0633cc1366b7)
+
+
+
 
 
 ## Usage
