@@ -8,7 +8,7 @@
 - [Installation](#installation)
 - [Screenshots](#screenshots)
 - [Usage](#usage)
- - [Additional Info](#additional-info)
+ - [Links](#Links)
 
 
 ## Description
@@ -26,11 +26,17 @@ No installation is necessary, the app is deployed at Github Pages:
 ![image](https://github.com/aevripidou1996/My-React-Profile/assets/114223852/c5842a6c-8e64-446b-a8b4-0633cc1366b7)
 
 
+## links
 
+In the link's bellow you will find 2 URL links.
 
+The first URL will take you to my Github repository, which contanins the code for this assesment and previous git pusheshes. 
 
-## Usage
+The second URL once deployed will showcase the finished live application.
 
-The app is currently deployed at Github Pages:
+Github URL: https: 
+
+Live Application URL: 
+
 
 
